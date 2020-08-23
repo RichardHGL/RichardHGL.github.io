@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Gaole He"
-  avatar           : "profile.png"
+  avatar           : "Turing-cikm-2018.jpeg"
   bio              : "Master student in Renmin University of China. Research topic: knolwedge graph."
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=J5m92oAAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=J5m92oAAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Gaole_He"
   uri              :
