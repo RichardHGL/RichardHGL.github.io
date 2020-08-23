@@ -83,12 +83,12 @@ author:
   name             : "Gaole He"
   avatar           : "profile.png"
   bio              : "Master student in Renmin University of China. Research topic: knolwedge graph."
-  location         : "Location"
+  location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=J5m92oAAAAAJ&hl=zh-CN"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Gaole_He"
   uri              :
   bitbucket        :
   codepen          :
