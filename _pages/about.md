@@ -13,6 +13,6 @@ I am a Ms student in Information School at Renmin University of China, advised b
 
 Contact
 ======
-Information School
-Renmin University of China
+School of Information, Renmin University of China
+
 Email: hegaole at ruc dot edu dot cn
