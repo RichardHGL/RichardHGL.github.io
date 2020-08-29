@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Renmin University of China, 2018
+* M.S. in Computer Application Techniques, Renmin University of China, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov. 2019 - Aug. 2020: Research Assistant
+  * [Singapore Management University](https://www.smu.edu.sg/)
+  * Duties included: Knowledge Based Question Answering
+  * Supervisor: Prof. [Jing Jiang](http://www.mysmu.edu/faculty/jingjiang/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2018 - Sep 2020 : Student Life Advisor
+  * Renmin University of China
+  * Duties included: take care of junior students and help them with both life and lessons
+  * Supervisor: Prof. [Jing Zhang](https://xiaojingzi.github.io/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Basic language: C/C++, python, Java
+* Research Topics
+  * Recommender System
+  * Knowledge Graph Completion
+  * Knowledge Base Question Answering
+* Latex
 
 Publications
 ======
