@@ -22,7 +22,7 @@ Work experience
   * Supervisor: Prof. [Jing Jiang](http://www.mysmu.edu/faculty/jingjiang/)
 
 * Sep 2018 - Sep 2020 : Student Life Advisor
-  * Renmin University of China
+  * [Renmin University of China](https://ruc.edu.cn/)
   * Duties included: take care of junior students and help them with both life and lessons
   * Supervisor: Prof. [Jing Zhang](https://xiaojingzi.github.io/)
   
