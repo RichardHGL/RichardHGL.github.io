@@ -1,7 +1,7 @@
 ---
 title: "Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning"
 collection: publications
-permalink: /publication/2020-paper-www
+permalink: /publication/2020-1-26-paper-www
 excerpt: 'In this paper, we take a new perspective that aims to leverage rich user-item interaction data (user interaction data for short) for im- proving the KGC task.'
 date: 2020-1-26
 venue: 'WWW 2020'
