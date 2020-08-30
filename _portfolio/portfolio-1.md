@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Attending KARS workshop at CIKM 2018"
+excerpt: "Picture at Museo Nazionale del Cinema in Turing, Italy<br/><img src='/images/Turing-cikm-2018.jpeg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is my first time go abroad to attend KARS workshop at Turing. Yutao Zhu take me travel around Turing. This museum impress me a lot.
