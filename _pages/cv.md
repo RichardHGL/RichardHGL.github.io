@@ -18,12 +18,12 @@ Work experience
 ======
 * Nov. 2019 - Aug. 2020: Research Assistant
   * [Singapore Management University](https://www.smu.edu.sg/)
-  * Duties included: Knowledge Based Question Answering
+  * Duties included: Knowledge Base Question Answering
   * Supervisor: Prof. [Jing Jiang](http://www.mysmu.edu/faculty/jingjiang/)
 
 * Sep 2018 - Sep 2020 : Student Life Advisor
   * [Renmin University of China](https://ruc.edu.cn/)
-  * Duties included: take care of junior students and help them with both life and lessons
+  * Duties included: Help freshman get familiar with life and lessons about university.
   * Supervisor: Prof. [Jing Zhang](https://xiaojingzi.github.io/)
   
 Skills
