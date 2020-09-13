@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ms student in Information School at Renmin University of China, advised by Prof. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/). My major research interests lies in the area of knowledge graph, recommender system and natual language processing. I received my Bachelor's Degree in [Renmin University of China](https://ruc.edu.cn/).
+I am a Ms student in Information School at Renmin University of China (RUC), advised by Prof. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/) and [Ji-Rong Wen](https://scholar.google.co.jp/citations?user=tbxCHJgAAAAJ). I also worked as a visiting research student in Singapore Management University, supervised by Prof. [Jing Jiang](http://www.mysmu.edu/faculty/jingjiang/). I received my Bachelor's Degree from [RUC](https://ruc.edu.cn/), in 2018.
+
+
+Research Interest
+======
+- Knowledge Base
+- Recommender System
+- Natural Language Processing
+- Graph Neural Network
 
 
 Selected Publication
@@ -25,6 +33,11 @@ Selected Publication
   - *Jin Huang, Zhaochun Ren, Wayne Xin Zaho, **Gaole He**, Ji-Rong Wen, and Daxiang Dong.*  WSDM 2019.
   - [[paper]](https://dl.acm.org/doi/abs/10.1145/3289600.3290972), [[code]](https://github.com/RUCDM/TMRN)
 
+
+Selected Awards
+======
+- Outstanding graduates in RUC: 2018
+- American College Mathematical Modeling Contest Meritorious Winner, 2016
 
 Contact
 ======
