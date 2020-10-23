@@ -21,6 +21,9 @@ Research Interest
 
 Selected Publication
 ======
+- **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals.**
+  - ***Gaole He**, Yunshi Lan, Jing Jiang, Wayne Xin Zhao and Ji-Rong Wen.* WSDM 2021.
+
 - **Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning.**
   - ***Gaole He**, Junyi Li, Wayne Xin Zhao, Peiju Liu and Ji-Rong Wen.* WWW 2020.
   - [[paper]](http://RichardHGL.github.io/files/www2020.pdf), [[code]](https://github.com/RichardHGL/UPGAN), [[video]](https://www.youtube.com/watch?v=SABAIvhhMm0&list=PLJNwhMK_V7EyZCUt6SjW4JthoM9-QiHMZ&index=43), [[slides]](https://github.com/RichardHGL/UPGAN/blob/master/www_slides.pptx)
