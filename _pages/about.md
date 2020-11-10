@@ -39,6 +39,7 @@ Selected Publication
 
 Selected Awards
 ======
+- JingDong Scholarship, 2020 (First-Class scholarship for postgraduate student)
 - Outstanding graduates in RUC: 2018
 - American College Mathematical Modeling Contest Meritorious Winner, 2016
 
