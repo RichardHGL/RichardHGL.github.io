@@ -23,6 +23,7 @@ Selected Publication
 ======
 - **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals.**
   - ***Gaole He**, Yunshi Lan, Jing Jiang, Wayne Xin Zhao and Ji-Rong Wen.* WSDM 2021.
+  - [[paper]](http://RichardHGL.github.io/files/wsdm2021.pdf)
 
 - **Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning.**
   - ***Gaole He**, Junyi Li, Wayne Xin Zhao, Peiju Liu and Ji-Rong Wen.* WWW 2020.
