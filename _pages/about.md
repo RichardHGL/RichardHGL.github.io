@@ -33,10 +33,6 @@ Selected Publication
   - *Wayne Xin Zhao, **Gaole He**, Kunlin Yang, Hong-Jian Dou, Jin Huang,Siqi Ouyang and Ji-Rong Wen.* Data Intelligence 2019.
   - [[paper]](http://RichardHGL.github.io/files/KB4Rec.pdf), [[data & code]](https://github.com/RUCDM/KB4Rec)
 
-- **Taxonomy-aware multi-hop reasoning networks for sequential recommendation.**
-  - *Jin Huang, Zhaochun Ren, Wayne Xin Zaho, **Gaole He**, Ji-Rong Wen, and Daxiang Dong.*  WSDM 2019.
-  - [[paper]](https://dl.acm.org/doi/abs/10.1145/3289600.3290972), [[code]](https://github.com/RUCDM/TMRN)
-
 
 Selected Awards
 ======
