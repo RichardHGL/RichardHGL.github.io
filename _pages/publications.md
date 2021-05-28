@@ -9,10 +9,12 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+### Publications(* indicates equal contribution)
+
 ## 2021
 
 - **TextBox: A Unified, Modularized, and Extensible Framework for Text Generation.**
-  - Junyi Li, Tianyi Tang, Gaole He, Jinhao Jiang, Xiaoxuan Hu, Puzhao Xie, Zhipeng Chen, Zhuohao Yu, Wayne Xin Zhao, Ji-Rong Wen. ACL 2021 demo.
+  - Junyi Li, Tianyi Tang, **Gaole He**, Jinhao Jiang, Xiaoxuan Hu, Puzhao Xie, Zhipeng Chen, Zhuohao Yu, Wayne Xin Zhao, Ji-Rong Wen. ACL 2021 demo.
   - [[paper]](https://arxiv.org/abs/2101.02046), [[project]](https://github.com/RUCAIBox/TextBox)
 
 - **A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions.**
