@@ -20,33 +20,34 @@ Work experience
   * [Singapore Management University](https://www.smu.edu.sg/)
   * Duties included: Knowledge Base Question Answering
   * Supervisor: Prof. [Jing Jiang](http://www.mysmu.edu/faculty/jingjiang/)
-
+<!--
 * Sep 2018 - Sep 2020 : Student Life Advisor
   * [Renmin University of China](https://ruc.edu.cn/)
-  * Duties included: Help freshman get familiar with life and lessons about university.
+  * Duties included: Help freshman get familiar with life and courses about university.
   * Supervisor: Prof. [Jing Zhang](https://xiaojingzi.github.io/)
-  
+--> 
 Skills
 ======
 * Basic language: C/C++, python, Java
 * Research Topics
   * Recommender System
-  * Knowledge Graph Completion
-  * Knowledge Base Question Answering
+  * Knowledge Graph
+  * Graph Neural Network
 * Latex
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->  
+
 <!--
 Teaching
 ======
