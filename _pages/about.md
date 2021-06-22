@@ -36,7 +36,7 @@ Selected Publication
 
 Selected Awards
 ======
-- SIGIR Student Travel Grant (WSDM 2021)
+- Excellent Graduate in Beijing, 2021
 - JingDong Scholarship, 2020 (First-Class scholarship for postgraduate student)
 - Outstanding graduates in RUC: 2018
 - American College Mathematical Modeling Contest Meritorious Winner, 2016
