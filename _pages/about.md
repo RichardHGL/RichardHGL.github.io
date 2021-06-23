@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be a PhD candidate in [wis group](http://wis.ewi.tudelft.nl/), TU Delft. 
+I will be a PhD student in [wis group](http://wis.ewi.tudelft.nl/), TU Delft. 
 I obtained my master and bachelor degree from Information School at Renmin University of China ([RUC]((https://ruc.edu.cn/))), advised by Prof. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/) and [Ji-Rong Wen](https://scholar.google.co.jp/citations?user=tbxCHJgAAAAJ). I also worked as a visiting research student in Singapore Management University, supervised by Prof. [Jing Jiang](http://www.mysmu.edu/faculty/jingjiang/). 
 
 
