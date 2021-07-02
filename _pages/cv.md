@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science, Renmin University of China, 2014 - 2018
 * M.S. in Computer Application Techniques, Renmin University of China, 2018 - 2021
-* PhD candidate in [wis group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/), TU Delft, 2021-
+* PhD student in [wis group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/), TU Delft, 2021-
 
 Work experience
 ======
