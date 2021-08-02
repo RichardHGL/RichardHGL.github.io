@@ -21,12 +21,12 @@ Work experience
   * [Singapore Management University](https://www.smu.edu.sg/)
   * Duties included: Knowledge Base Question Answering
   * Supervisor: Prof. [Jing Jiang](http://www.mysmu.edu/faculty/jingjiang/)
-<!--
+
 * Sep 2018 - Sep 2020 : Student Life Advisor
   * [Renmin University of China](https://ruc.edu.cn/)
   * Duties included: Help freshman get familiar with life and courses about university.
   * Supervisor: Prof. [Jing Zhang](https://xiaojingzi.github.io/)
---> 
+
 Skills
 ======
 * Basic language: C/C++, python, Java
