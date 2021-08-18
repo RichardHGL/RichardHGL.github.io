@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=J5m92oAAAAAJ">my Google Scholar</a>.</u>
 
--> * indicates equal contribution
+-> # indicates equal contribution
 
 ## 2021
 
@@ -18,7 +16,7 @@ author_profile: true
   - [[paper]](https://arxiv.org/abs/2101.02046), [[project]](https://github.com/RUCAIBox/TextBox)
 
 - **A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions.**
-  - Yunshi Lan*, Gaole He*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. IJCAI 2021 Survey.
+  - Yunshi Lan$^{#}$, Gaole He$^{#}$, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. IJCAI 2021 Survey.
   - [[paper]](https://arxiv.org/abs/2105.11644)
 
 - **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals.**
