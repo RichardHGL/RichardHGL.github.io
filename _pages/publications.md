@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=J5m92oAAAAAJ">my Google Scholar</a>.</u>
 
--> # indicates equal contribution
+-> * indicates equal contribution
 
 ## 2021
 
