@@ -11,6 +11,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2021
 
+- **Complex Knowledge Base Question Answering: A Survey.**
+  - Yunshi Lan*, **Gaole He***, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. Long Survey, preprint.
+  - [[paper]](https://arxiv.org/pdf/2108.06688)
+
 - **TextBox: A Unified, Modularized, and Extensible Framework for Text Generation.**
   - Junyi Li, Tianyi Tang, **Gaole He**, Jinhao Jiang, Xiaoxuan Hu, Puzhao Xie, Zhipeng Chen, Zhuohao Yu, Wayne Xin Zhao, Ji-Rong Wen. ACL 2021 demo.
   - [[paper]](https://arxiv.org/abs/2101.02046), [[project]](https://github.com/RUCAIBox/TextBox)
