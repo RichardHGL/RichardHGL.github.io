@@ -12,7 +12,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## 2021
 
 - **Complex Knowledge Base Question Answering: A Survey.**
-  - Yunshi Lan*, **Gaole He***, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. Long Survey, preprint.
+  - Yunshi Lan\*, **Gaole He**\*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. Long Survey, preprint.
   - [[paper]](https://arxiv.org/pdf/2108.06688)
 
 - **TextBox: A Unified, Modularized, and Extensible Framework for Text Generation.**
@@ -20,7 +20,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   - [[paper]](https://arxiv.org/abs/2101.02046), [[project]](https://github.com/RUCAIBox/TextBox)
 
 - **A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions.**
-  - Yunshi Lan*, **Gaole He***, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. IJCAI 2021 Survey.
+  - Yunshi Lan\*, **Gaole He**\*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. IJCAI 2021 Survey.
   - [[paper]](https://arxiv.org/abs/2105.11644)
 
 - **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals.**
