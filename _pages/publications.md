@@ -11,6 +11,15 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2021
 
+- **FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge.**
+  - Agathe Balayn\*, **Gaole He**\*, Andrea Hu\*, Jie Yang, Ujwal Gadiraju. [HCOMP 2021](https://www.humancomputation.com/program.html) Demo. 
+  - **winners of the Toloka Best Poster/Demo award**.
+  - [[paper]](http://ujwalgadiraju.com/Publications/HCOMP2021e.pdf)
+
+- **A Pretraining Numerical Reasoning Model for Ordinal Constrained Question Answering on Knowledge Base.**
+  - Yu Feng, Jing Zhang, **Gaole He**, Wayne Xin Zhao, Lemao Liu, Quan Liu, Cuiping Li, Hong Chen. Findings of EMNLP 2021.
+  - [[paper]](https://aclanthology.org/2021.findings-emnlp.159/)
+
 - **Complex Knowledge Base Question Answering: A Survey.**
   - Yunshi Lan\*, **Gaole He**\*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. Long Survey, preprint.
   - [[paper]](https://arxiv.org/pdf/2108.06688)
