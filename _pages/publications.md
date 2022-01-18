@@ -55,11 +55,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2019
 
-- **KB4Rec: A Data Set for Linking Knowledge Bases with Recommender Systems**
+- **KB4Rec: A Data Set for Linking Knowledge Bases with Recommender Systems.**
   - Wayne Xin Zhao, **Gaole He**, Kunlin Yang, Hong-Jian Dou, Jin Huang,Siqi Ouyang and Ji-Rong Wen. Data Intelligence 2019.
   - [[paper]](http://RichardHGL.github.io/files/KB4Rec.pdf), [[data & code]](https://github.com/RUCDM/KB4Rec)
 
-- **Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation**
+- **Taxonomy-Aware Multi-Hop Reasoning Networks for Sequential Recommendation.**
   - Jin Huang, Zhaochun Ren, Wayne Xin Zhao, **Gaole He**, Ji-Rong Wen and Daxiang Dong. WSDM 2019.
   - [[paper]](https://dl.acm.org/doi/10.1145/3289600.3290972), [[data & code]](https://github.com/RUCDM/TMRN)
 
