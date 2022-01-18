@@ -9,6 +9,17 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 -> * indicates equal contribution
 
+## Pre-print
+
+- **Complex Knowledge Base Question Answering: A Survey.**
+  - Yunshi Lan\*, **Gaole He**\*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. Survey paper.
+  - [[paper]](https://arxiv.org/pdf/2108.06688)
+
+## 2022
+
+- **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game.**
+  - Agathe Balayn\*, **Gaole He**\*, Andrea Hu\*, Jie Yang, Ujwal Gadiraju. to appear in WWW 2022. 
+
 ## 2021
 
 - **FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge.**
@@ -19,10 +30,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 - **A Pretraining Numerical Reasoning Model for Ordinal Constrained Question Answering on Knowledge Base.**
   - Yu Feng, Jing Zhang, **Gaole He**, Wayne Xin Zhao, Lemao Liu, Quan Liu, Cuiping Li, Hong Chen. Findings of EMNLP 2021.
   - [[paper]](https://aclanthology.org/2021.findings-emnlp.159/)
-
-- **Complex Knowledge Base Question Answering: A Survey.**
-  - Yunshi Lan\*, **Gaole He**\*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. Long Survey, preprint.
-  - [[paper]](https://arxiv.org/pdf/2108.06688)
 
 - **TextBox: A Unified, Modularized, and Extensible Framework for Text Generation.**
   - Junyi Li, Tianyi Tang, **Gaole He**, Jinhao Jiang, Xiaoxuan Hu, Puzhao Xie, Zhipeng Chen, Zhuohao Yu, Wayne Xin Zhao, Ji-Rong Wen. ACL 2021 demo.
