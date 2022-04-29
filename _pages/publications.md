@@ -17,15 +17,20 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2022
 
+- **Walking on Eggshells: Using Analogies to Promote Appropriate Reliance in Human-AI Decision Making.**
+  - **Gaole He**, Ujwal Gadiraju. CHI TRAIT workshop 2022, short perspective paper. 
+  - [[paper]](http://ujwalgadiraju.com/Publications/CHI2022_TRAIT.pdf)
+
 - **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game.**
   - Agathe Balayn\*, **Gaole He**\*, Andrea Hu\*, Jie Yang, Ujwal Gadiraju. WWW 2022. 
   - [[paper]](http://ujwalgadiraju.com/Publications/WWW2022a.pdf), [[code]](https://github.com/delftcrowd/FindItOut)
+  - **Best Paper Candidate (1/11), honorable nomination**.
 
 ## 2021
 
 - **FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge.**
   - Agathe Balayn\*, **Gaole He**\*, Andrea Hu\*, Jie Yang, Ujwal Gadiraju. [HCOMP 2021](https://www.humancomputation.com/program.html) Demo. 
-  - **winners of the Toloka Best Poster/Demo award**.
+  - **Winners of the Toloka Best Poster/Demo award**.
   - [[paper]](http://ujwalgadiraju.com/Publications/HCOMP2021e.pdf)
 
 - **A Pretraining Numerical Reasoning Model for Ordinal Constrained Question Answering on Knowledge Base.**
