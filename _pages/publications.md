@@ -17,13 +17,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2022
 - **It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge.**
-  - **Gaole He**, Ujwal Gadiraju. CHI TRAIT workshop 2022, short perspective paper. 
-  - [[paper]](http://ujwalgadiraju.com/Publications/CHI2022_TRAIT.pdf)
+  - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. HCOMP 2022 (10th AAAI Conference on Human Computation and Crowdsourcing). 
+  - to appear after camera ready
 
 
 - **Walking on Eggshells: Using Analogies to Promote Appropriate Reliance in Human-AI Decision Making.**
-  - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju1. HCOMP 2022 (10th AAAI Conference on Human Computation and Crowdsourcing). 
-  - to appear after camera ready
+  - **Gaole He**, Ujwal Gadiraju. CHI TRAIT workshop 2022, short perspective paper. 
+  - [[paper]](http://ujwalgadiraju.com/Publications/CHI2022_TRAIT.pdf)
 
 - **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game.**
   - Agathe Balayn\*, **Gaole He**\*, Andrea Hu\*, Jie Yang, Ujwal Gadiraju. WWW 2022. 
