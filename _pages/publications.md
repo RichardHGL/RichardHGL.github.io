@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 - **Complex Knowledge Base Question Answering: A Survey.**
   - Yunshi Lan\*, **Gaole He**\*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. Survey paper.
-  - [[paper]](https://arxiv.org/pdf/2108.06688)
+  - [[paper]](https://arxiv.org/pdf/2108.06688), [[repo]](https://github.com/JBoRu/Awesome-KBQA)
 
 ## 2022
 - **It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge.**
@@ -39,7 +39,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 - **A Pretraining Numerical Reasoning Model for Ordinal Constrained Question Answering on Knowledge Base.**
   - Yu Feng, Jing Zhang, **Gaole He**, Wayne Xin Zhao, Lemao Liu, Quan Liu, Cuiping Li, Hong Chen. Findings of EMNLP 2021.
-  - [[paper]](https://aclanthology.org/2021.findings-emnlp.159/)
+  - [[paper]](https://aclanthology.org/2021.findings-emnlp.159/), [[code]](https://github.com/ruckbreasoning/numkbqa)
 
 - **TextBox: A Unified, Modularized, and Extensible Framework for Text Generation.**
   - Junyi Li, Tianyi Tang, **Gaole He**, Jinhao Jiang, Xiaoxuan Hu, Puzhao Xie, Zhipeng Chen, Zhuohao Yu, Wayne Xin Zhao, Ji-Rong Wen. ACL 2021 demo.
