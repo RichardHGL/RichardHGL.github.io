@@ -18,7 +18,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## 2022
 - **It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge.**
   - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. HCOMP 2022 (10th AAAI Conference on Human Computation and Crowdsourcing). 
-  - [[paper]](http://ujwalgadiraju.com/Publications/HCOMP2022a.pdf), [[code]](https://github.com/delftcrowd/HCOMP2022_ARCHIE)
+  - [[paper]](http://ujwalgadiraju.com/Publications/HCOMP2022a.pdf), [[code]](https://github.com/delftcrowd/HCOMP2022_ARCHIE), [[slides]](https://github.com/delftcrowd/HCOMP2022_ARCHIE/blob/main/asset/hcomp2022_gaole.pptx)
   - **Best Paper Award**.
 
 - **Walking on Eggshells: Using Analogies to Promote Appropriate Reliance in Human-AI Decision Making.**
