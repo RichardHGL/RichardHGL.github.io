@@ -12,7 +12,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Pre-print
 
 - **Complex Knowledge Base Question Answering: A Survey.**
-  - Yunshi Lan\*, **Gaole He**\*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. Survey paper.
+  - Yunshi Lan\*, **Gaole He**\*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. Survey paper. To appear in TKDE
   - [[paper]](https://arxiv.org/pdf/2108.06688), [[repo]](https://github.com/JBoRu/Awesome-KBQA)
 
 ## 2022
