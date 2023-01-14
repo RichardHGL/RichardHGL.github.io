@@ -9,6 +9,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 -> * indicates equal contribution
 
+## 2023
+- **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
+  - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. To apear at CHI 2023. 
+
 ## 2022
 - **It Is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge.**
   - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. HCOMP 2022 (10th AAAI Conference on Human Computation and Crowdsourcing). 
