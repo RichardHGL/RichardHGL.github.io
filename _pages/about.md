@@ -21,6 +21,8 @@ Research Interest
 
 Selected Publication
 ======
+- **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
+  - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. To apear at CHI 2023. 
 
 - **It Is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge.**
   - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. HCOMP 2022 (10th AAAI Conference on Human Computation and Crowdsourcing). 
@@ -39,11 +41,6 @@ Selected Publication
 - **Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning.**
   - **Gaole He**, Junyi Li, Wayne Xin Zhao, Peiju Liu and Ji-Rong Wen. WWW 2020.
   - [[paper]](http://RichardHGL.github.io/files/www2020.pdf), [[code]](https://github.com/RichardHGL/UPGAN), [[video]](https://www.youtube.com/watch?v=SABAIvhhMm0&list=PLJNwhMK_V7EyZCUt6SjW4JthoM9-QiHMZ&index=43), [[slides]](https://github.com/RichardHGL/UPGAN/blob/master/www_slides.pptx)
-
-- **KB4Rec: A Data Set for Linking Knowledge Bases with Recommender Systems**
-  -Wayne Xin Zhao, **Gaole He**, Kunlin Yang, Hong-Jian Dou, Jin Huang,Siqi Ouyang and Ji-Rong Wen. Data Intelligence 2019.
-  - [[paper]](http://RichardHGL.github.io/files/KB4Rec.pdf), [[data & code]](https://github.com/RUCDM/KB4Rec)
-
 
 Selected Awards
 ======
