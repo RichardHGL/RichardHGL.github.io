@@ -23,7 +23,7 @@ Selected Publication
 ======
 - **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
   - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. To apear at CHI 2023. 
-  - [[code]](https://github.com/RichardHGL/CHI2023_DKE)
+  - [[paper]](https://arxiv.org/abs/2301.11333), [[code]](https://github.com/RichardHGL/CHI2023_DKE)
 
 - **It Is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge.**
   - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. HCOMP 2022 (10th AAAI Conference on Human Computation and Crowdsourcing). 
