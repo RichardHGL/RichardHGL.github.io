@@ -48,7 +48,6 @@ Selected Awards
 - HCOMP Best Paper Award, 2022
 - Excellent Graduate in Beijing, 2021
 - JingDong Scholarship, 2020 (Special First-Class scholarship for postgraduate student)
-- Outstanding graduates in RUC: 2018
 - American College Mathematical Modeling Contest Meritorious Winner, 2016
 
 Contact
