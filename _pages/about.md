@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+Bio
+======
+
 I am a PhD student in [wis group](http://wis.ewi.tudelft.nl/), TU Delft, supervised by Prof.dr. [Ujwal Gadiraju](http://ujwalgadiraju.com/) and Prof.dr.ir. [Geert-Jan Houben](https://scholar.google.com/citations?user=7SLMWEcAAAAJ&hl=en). 
 I obtained my master and bachelor degree from Information School at Renmin University of China ([RUC](https://ruc.edu.cn/)), supervised by Prof.dr. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/) and Prof.dr. [Ji-Rong Wen](https://scholar.google.co.jp/citations?user=tbxCHJgAAAAJ). I also worked as a visiting research student in Singapore Management University, supervised by Prof.dr. [Jing Jiang](http://www.mysmu.edu/faculty/jingjiang/). 
 
-
 Research Interest
 ======
-- Human-centered AI
-- Knowledge Base
-- Natural Language Processing
+In my master program, I primarily focused on deep learning techniques for graph representation learning and reasoning, and on intelligent applications
+with relational knowledge bases, such as knowledge base question answering, knowledge graph completion, and knowledge-based recommender systems.
+
+My current research focuses on human-centered AI:
+- Collecting necessary human knowledge (e.g., commonsense knowledge) to improve AI systems and generate explanations
+- Designing effective explanation methods (e.g., using analogy) to facilitate human-AI collaboration (target users: laypeople, non-experts)
+- Analyzing user factors (e.g., expertise, mindset) in shaping trust and reliance in human-AI collaboration.
 
 
 Selected Publication
