@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Bio
-======
-
 I am a PhD student in [wis group](http://wis.ewi.tudelft.nl/), TU Delft, supervised by Prof.dr. [Ujwal Gadiraju](http://ujwalgadiraju.com/) and Prof.dr.ir. [Geert-Jan Houben](https://scholar.google.com/citations?user=7SLMWEcAAAAJ&hl=en). 
 I obtained my master and bachelor degree from Information School at Renmin University of China ([RUC](https://ruc.edu.cn/)), supervised by Prof.dr. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/) and Prof.dr. [Ji-Rong Wen](https://scholar.google.co.jp/citations?user=tbxCHJgAAAAJ). I also worked as a visiting research student in Singapore Management University, supervised by Prof.dr. [Jing Jiang](http://www.mysmu.edu/faculty/jingjiang/). 
 
