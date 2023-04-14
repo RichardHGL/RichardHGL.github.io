@@ -48,8 +48,10 @@ Selected Publication
 
 Selected Awards
 ======
+- Gary Marsden Travel Award for CHI'23, 2023
 - HCOMP Best Paper Award, 2022
 - Excellent Graduate in Beijing, 2021
+- WSDM travel grant, 2021
 - JingDong Scholarship, 2020 (Special First-Class scholarship for postgraduate student)
 - American College Mathematical Modeling Contest Meritorious Winner, 2016
 
