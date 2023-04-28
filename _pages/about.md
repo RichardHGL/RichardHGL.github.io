@@ -25,7 +25,7 @@ My current research focuses on human-centered AI:
 Selected Publication
 ======
 - **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
-  - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. To apear at CHI 2023. 
+  - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. CHI 2023 (also presented at TRAIT workshop). 
   - [[paper]](https://arxiv.org/abs/2301.11333), [[code]](https://github.com/RichardHGL/CHI2023_DKE)
 
 - **It Is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge.**
