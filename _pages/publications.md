@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2023
 - **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
-  - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. To apear at CHI 2023 (also presented at TRAIT workshop). 
+  - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. CHI 2023 (also presented at TRAIT workshop). 
   - [[paper]](https://arxiv.org/abs/2301.11333), [[code]](https://github.com/RichardHGL/CHI2023_DKE)
 
 ## 2022
