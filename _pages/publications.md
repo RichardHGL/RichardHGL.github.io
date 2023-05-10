@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 - **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
   - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. CHI 2023. 
-  - [[paper]](https://arxiv.org/abs/2301.11333), [[code]](https://github.com/RichardHGL/CHI2023_DKE), [[video]](https://dl.acm.org/doi/abs/10.1145/3544548.3581025)
+  - [[paper]](https://arxiv.org/abs/2301.11333), [[code]](https://github.com/RichardHGL/CHI2023_DKE), [[video]](https://dl.acm.org/doi/abs/10.1145/3544548.3581025), [[slides]](https://github.com/RichardHGL/CHI2023_DKE/blob/main/CHI23_CrowdDKE.pptx)
 
 ## 2022
 - **It Is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge.**
