@@ -10,6 +10,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 -> * indicates equal contribution
 
 ## 2023
+- **How Stated Accuracy of an AI System and Analogies to Explain Accuracy Affect Human Reliance on the System.**
+  - **Gaole He**\*, Stefan Buijsman\*, Ujwal Gadiraju. To appear at CSCW 2023. 
+
 - **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
   - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. CHI 2023. 
   - [[paper]](https://arxiv.org/abs/2301.11333), [[code]](https://github.com/RichardHGL/CHI2023_DKE), [[video]](https://dl.acm.org/doi/abs/10.1145/3544548.3581025)
