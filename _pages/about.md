@@ -36,7 +36,7 @@ Selected Publication
 - **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game.**
   - Agathe Balayn\*, **Gaole He**\*, Andrea Hu\*, Jie Yang, Ujwal Gadiraju. WWW 2022. 
   - [[paper]](http://ujwalgadiraju.com/Publications/WWW2022a.pdf), [[code]](https://github.com/delftcrowd/FindItOut), [[slides]](https://github.com/delftcrowd/FindItOut/blob/main/www22_pre.pptx)
-  - **Best Paper Candidate (1/11), honorable nomination**.
+  - **Best Paper Candidate, honorable nomination**.
 
 - **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals.**
   - **Gaole He**, Yunshi Lan, Jing Jiang, Wayne Xin Zhao and Ji-Rong Wen. WSDM 2021.
