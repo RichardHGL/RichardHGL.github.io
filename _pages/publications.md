@@ -30,7 +30,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 - **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game.**
   - Agathe Balayn\*, **Gaole He**\*, Andrea Hu\*, Jie Yang, Ujwal Gadiraju. WWW 2022. 
   - [[paper]](http://ujwalgadiraju.com/Publications/WWW2022a.pdf), [[code]](https://github.com/delftcrowd/FindItOut), [[slides]](https://github.com/delftcrowd/FindItOut/blob/main/www22_pre.pptx)
-  - **Best Paper Candidate (1/11), honorable nomination**.
+  - **Best Paper Candidate, honorable nomination**.
 
 - **Complex Knowledge Base Question Answering: A Survey.**
   - Yunshi Lan\*, **Gaole He**\*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen. Survey paper. TKDE journal
