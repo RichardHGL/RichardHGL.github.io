@@ -10,6 +10,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 -> * indicates equal contribution
 
 ## 2023
+- **A Missing Piece in the Puzzle: Considering the Role of Task Complexity in Human-AI Decision Making.**
+  - Sara Salimzadeh, **Gaole He**, Ujwal Gadiraju. UMAP 2023. 
+
 - **How Stated Accuracy of an AI System and Analogies to Explain Accuracy Affect Human Reliance on the System.**
   - **Gaole He**\*, Stefan Buijsman\*, Ujwal Gadiraju. To appear at CSCW 2023. 
 
