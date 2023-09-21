@@ -14,7 +14,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   - Sara Salimzadeh, **Gaole He**, Ujwal Gadiraju. UMAP 2023. 
 
 - **How Stated Accuracy of an AI System and Analogies to Explain Accuracy Affect Human Reliance on the System.**
-  - **Gaole He**\*, Stefan Buijsman\*, Ujwal Gadiraju. To appear at CSCW 2023. 
+  - **Gaole He**\*, Stefan Buijsman\*, Ujwal Gadiraju. To appear at CSCW 2023.
+  - [[paper]](http://ujwalgadiraju.com/Publications/CSCW2023.pdf), [[code]](https://osf.io/9jqma/?view_only=c0c0dd12fa804b028cd29fbf9fd2ef4f), [[blog]](https://medium.com/acm-cscw/how-analogies-to-explain-accuracy-affect-human-reliance-on-the-system-803f56728232)
 
 - **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
   - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. CHI 2023. 
