@@ -11,11 +11,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2023
 - **A Missing Piece in the Puzzle: Considering the Role of Task Complexity in Human-AI Decision Making.**
-  - Sara Salimzadeh, **Gaole He**, Ujwal Gadiraju. UMAP 2023. 
+  - Sara Salimzadeh, **Gaole He**, Ujwal Gadiraju. UMAP 2023.
+  - [[paper]](https://ujwalgadiraju.com/Publications/UMAP2023.pdf)
 
 - **How Stated Accuracy of an AI System and Analogies to Explain Accuracy Affect Human Reliance on the System.**
   - **Gaole He**\*, Stefan Buijsman\*, Ujwal Gadiraju. To appear at CSCW 2023.
-  - [[paper]](http://ujwalgadiraju.com/Publications/CSCW2023.pdf), [[code]](https://osf.io/9jqma/?view_only=c0c0dd12fa804b028cd29fbf9fd2ef4f), [[blog]](https://medium.com/acm-cscw/how-analogies-to-explain-accuracy-affect-human-reliance-on-the-system-803f56728232)
+  - [[paper]](http://ujwalgadiraju.com/Publications/CSCW2023.pdf), [[code]](https://osf.io/9jqma/?view_only=c0c0dd12fa804b028cd29fbf9fd2ef4f), [[blog]](https://medium.com/acm-cscw/how-analogies-to-explain-accuracy-affect-human-reliance-on-the-system-803f56728232), [[slides]](https://docs.google.com/presentation/d/1flUAsvP-w3c7Gl2zD1SwIF8xftNYCJo4Q4n_R-iKLoE/edit?usp=sharing)
 
 - **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
   - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. CHI 2023. 
