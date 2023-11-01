@@ -30,7 +30,7 @@ Selected Publication
 
 - **It Is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge.**
   - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. HCOMP 2022 (10th AAAI Conference on Human Computation and Crowdsourcing). 
-  - [[paper]](http://ujwalgadiraju.com/Publications/HCOMP2022a.pdf), [[code]](https://github.com/delftcrowd/HCOMP2022_ARCHIE), [[slides]](https://github.com/delftcrowd/HCOMP2022_ARCHIE/blob/main/asset/hcomp2022_gaole.pptx), [[video]](https://slideslive.com/38993029)
+  - [[paper]](http://ujwalgadiraju.com/Publications/HCOMP2022a.pdf), [[code]](https://github.com/delftcrowd/HCOMP2022_ARCHIE), [[slides]](https://github.com/delftcrowd/HCOMP2022_ARCHIE/blob/main/asset/hcomp2022_gaole.pptx), [[video]](https://slideslive.com/38993029), [[blog]](https://blog.humancomputation.com/?p=10802)
   - **Best Paper Award**.
 
 - **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game.**
