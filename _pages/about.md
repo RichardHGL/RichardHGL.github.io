@@ -17,9 +17,10 @@ In my master program, I primarily focused on deep learning techniques for graph 
 with relational knowledge bases, such as knowledge base question answering, knowledge graph completion, and knowledge-based recommender systems.
 
 My current research focuses on human-centered AI:
-- Collecting necessary human knowledge (e.g., commonsense knowledge) to improve AI systems and generate explanations
-- Designing effective explanation methods (e.g., using analogy) to facilitate human-AI collaboration (target users: laypeople, non-experts)
-- Analyzing user factors (e.g., expertise, mindset) in shaping trust and reliance in human-AI collaboration.
+- Exploring how **Large Language Models (LLMs)** can collaborate with humans to boost work efficiency and optimize workflow.
+- Analyzing user factors (e.g., **cognitive bias**) in shaping **trust and reliance** in human-AI collaboration.
+- Designing effective explanation methods (e.g., using **analogy**) to facilitate human-AI collaboration (target users: laypeople, non-experts)
+- Collecting necessary human knowledge (e.g., **commonsense knowledge**) to improve AI systems and generate explanations
 
 
 Selected Publication
