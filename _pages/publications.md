@@ -12,7 +12,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## 2024
 - **Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic Tasks on Trust and Reliance in Human-AI Decision-Making.**
   - Sara Salimzadeh, **Gaole He**, Ujwal Gadiraju. To appear at CHI 2024.
-  - [[paper]](https://ujwalgadiraju.com/Publications/CHI2024a.pdf)
+  - [[paper]](https://ujwalgadiraju.com/Publications/CHI2024a.pdf), [[video]](https://www.youtube.com/watch?v=2TDBuMDA7rQ)
 
 ## 2023
 - **A Missing Piece in the Puzzle: Considering the Role of Task Complexity in Human-AI Decision Making.**
