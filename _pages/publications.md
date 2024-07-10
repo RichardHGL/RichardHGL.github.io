@@ -10,6 +10,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 -> * indicates equal contribution
 
 ## 2024
+
+- **To Err Is AI! Debugging as an Intervention to Facilitate Appropriate Reliance on AI Systems.**
+  - **Gaole He**, Abri Bharos, Ujwal Gadiraju. To appear at Hypertext 2024.
+
 - **Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic Tasks on Trust and Reliance in Human-AI Decision-Making.**
   - Sara Salimzadeh, **Gaole He**, Ujwal Gadiraju. CHI 2024.
   - [[paper]](https://ujwalgadiraju.com/Publications/CHI2024a.pdf), [[video]](https://www.youtube.com/watch?v=2TDBuMDA7rQ), [[code]](https://osf.io/kt8m4/?view_only=c6930ba990c8412cb3948c2cf2b0a39c)
