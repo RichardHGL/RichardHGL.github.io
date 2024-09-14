@@ -11,8 +11,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2024
 
+- **Opening the Analogical Portal to Explainability: Can Analogies Help Laypeople in AI-assisted Decision Making?**
+  - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. To appear JAIR 2024. 
+
 - **To Err Is AI! Debugging as an Intervention to Facilitate Appropriate Reliance on AI Systems.**
-  - **Gaole He**, Abri Bharos, Ujwal Gadiraju. To appear at Hypertext 2024.
+  - **Gaole He**, Abri Bharos, Ujwal Gadiraju. Hypertext 2024 (Late break).
+  - [[paper]](https://dl.acm.org/doi/10.1145/3648188.3675130), [[slides]](https://docs.google.com/presentation/d/1McPmd5ASCRERC5Ei0zB6Tbfw3TWdLnKeKt_AkOgHm1k/edit?usp=sharing)
 
 - **Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic Tasks on Trust and Reliance in Human-AI Decision-Making.**
   - Sara Salimzadeh, **Gaole He**, Ujwal Gadiraju. CHI 2024.
