@@ -12,7 +12,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## 2024
 
 - **Opening the Analogical Portal to Explainability: Can Analogies Help Laypeople in AI-assisted Decision Making?**
-  - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. To appear JAIR 2024. 
+  - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. JAIR 2024.
+  - [[paper]](https://www.jair.org/index.php/jair/article/view/15118)
 
 - **To Err Is AI! Debugging as an Intervention to Facilitate Appropriate Reliance on AI Systems.**
   - **Gaole He**, Abri Bharos, Ujwal Gadiraju. Hypertext 2024 (Late break).
