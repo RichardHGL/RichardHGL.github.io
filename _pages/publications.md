@@ -9,8 +9,16 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 -> * indicates equal contribution
 
-## 2024
+## 2025
+- **Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant.**
+  - **Gaole He**, Gianluca Demartini, Ujwal Gadiraju. To appear CHI 2025.
+  - [[code]](https://github.com/RichardHGL/CHI2025_Plan-then-Execute_LLMAgent)
 
+- **Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant.**
+  - Gaole He, Nilay Aishwarya, Ujwal Gadiraju. To appear IUI 2025.
+  - [[code]](https://github.com/delftcrowd/IUI2025_ConvXAI)
+
+## 2024
 - **Opening the Analogical Portal to Explainability: Can Analogies Help Laypeople in AI-assisted Decision Making?**
   - **Gaole He**, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. JAIR 2024.
   - [[paper]](https://www.jair.org/index.php/jair/article/view/15118)
