@@ -20,7 +20,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   - [[code]](https://github.com/RichardHGL/CHI2025_Plan-then-Execute_LLMAgent)
 
 - **Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant.**
-  - Gaole He, Nilay Aishwarya, Ujwal Gadiraju. To appear IUI 2025.
+  - **Gaole He**, Nilay Aishwarya, Ujwal Gadiraju. To appear IUI 2025.
   - [[code]](https://github.com/delftcrowd/IUI2025_ConvXAI)
 
 ## 2024
