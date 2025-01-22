@@ -9,6 +9,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 -> * indicates equal contribution
 
+## Pre-print
+- **Fine-Grained Appropriate Reliance: Human-AI Collaboration with a Multi-Step Transparent Decision Workflow for Complex Task Decomposition.**
+  - **Gaole He**, Patrick Hemmer, Michael Vössing, Max Schemmer, Ujwal Gadiraju.
+  - [[paper]](https://arxiv.org/abs/2501.10909)
+
 ## 2025
 - **Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant.**
   - **Gaole He**, Gianluca Demartini, Ujwal Gadiraju. To appear CHI 2025.
