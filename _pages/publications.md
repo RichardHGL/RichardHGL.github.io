@@ -17,7 +17,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## 2025
 - **Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant.**
   - **Gaole He**, Gianluca Demartini, Ujwal Gadiraju. To appear CHI 2025.
-  - [[code]](https://github.com/RichardHGL/CHI2025_Plan-then-Execute_LLMAgent)
+  - [[paper]](https://github.com/RichardHGL/CHI2025_Plan-then-Execute_LLMAgent/blob/main/CHI2025_LLM_Agent_preprint.pdf), [[code]](https://github.com/RichardHGL/CHI2025_Plan-then-Execute_LLMAgent)
 
 - **Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant.**
   - **Gaole He**, Nilay Aishwarya, Ujwal Gadiraju. To appear IUI 2025.
