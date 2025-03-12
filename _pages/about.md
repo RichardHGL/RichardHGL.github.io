@@ -28,11 +28,11 @@ Selected Publication
 
 - **Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant.**
   - **Gaole He**, Gianluca Demartini, Ujwal Gadiraju. To appear CHI 2025.
-  - [[paper]](https://arxiv.org/abs/2502.01390), [[code]](https://github.com/RichardHGL/CHI2025_Plan-then-Execute_LLMAgent)
+  - [[paper]](https://arxiv.org/abs/2502.01390), [[code]](https://github.com/RichardHGL/CHI2025_Plan-then-Execute_LLMAgent), [[slides]](https://github.com/RichardHGL/CHI2025_Plan-then-Execute_LLMAgent/blob/main/asset/CHI25_pre_v1.pptx), [[video]](https://drive.google.com/file/d/1FP3yrVWRAtXEYsohMy_qEpavC0zkQkX3/view?usp=sharing)
 
 - **Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant.**
   - Gaole He, Nilay Aishwarya, Ujwal Gadiraju. To appear IUI 2025.
-  - [[paper]](https://arxiv.org/abs/2501.17546), [[code]](https://github.com/delftcrowd/IUI2025_ConvXAI)
+  - [[paper]](https://arxiv.org/abs/2501.17546), [[code]](https://github.com/delftcrowd/IUI2025_ConvXAI), [[video]](https://drive.google.com/file/d/1gQ0VpYBOMi7kLASGCnqNUQUCEcU0WJlr/view?usp=sharing)
 
 - **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
   - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. CHI 2023. 
