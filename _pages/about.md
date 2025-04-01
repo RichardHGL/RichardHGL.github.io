@@ -32,7 +32,7 @@ Selected Publication
 
 - **Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant.**
   - Gaole He, Nilay Aishwarya, Ujwal Gadiraju. To appear IUI 2025.
-  - [[paper]](https://arxiv.org/abs/2501.17546), [[code]](https://github.com/delftcrowd/IUI2025_ConvXAI), [[video]](https://drive.google.com/file/d/1gQ0VpYBOMi7kLASGCnqNUQUCEcU0WJlr/view?usp=sharing), [[slide]](https://github.com/delftcrowd/IUI2025_ConvXAI/blob/main/IUI25_pre_v2.pptx)
+  - [[paper]](https://arxiv.org/abs/2501.17546), [[code]](https://github.com/delftcrowd/IUI2025_ConvXAI), [[video]](https://drive.google.com/file/d/1gQ0VpYBOMi7kLASGCnqNUQUCEcU0WJlr/view?usp=sharing), [[slides]](https://github.com/delftcrowd/IUI2025_ConvXAI/blob/main/IUI25_pre_v2.pptx)
 
 - **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems.**
   - **Gaole He**, Lucie Kuiper, Ujwal Gadiraju. CHI 2023. 
