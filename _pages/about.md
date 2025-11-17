@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming postdoctoral research fellow at the [National University of Singapore](https://nus.edu.sg/). Before that, I obtained my PhD from the [Web Information Systems (WIS)](http://wis.ewi.tudelft.nl/) group
+I am a (postdoctoral) research fellow at the [NUS Ubicomp Lab](https://research.nus.edu.sg/ubicomplab/). Before that, I obtained my PhD from the [Web Information Systems (WIS)](http://wis.ewi.tudelft.nl/) group
  at TU Delft, supervised by Prof.dr. [Ujwal Gadiraju](http://ujwalgadiraju.com/) and Prof.dr.ir. [Geert-Jan Houben](https://scholar.google.com/citations?user=7SLMWEcAAAAJ&hl=en). 
 I obtained my master and bachelor degree from Information School at Renmin University of China ([RUC](https://ruc.edu.cn/)), supervised by Prof.dr. [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ) and Prof.dr. [Ji-Rong Wen](https://scholar.google.co.jp/citations?user=tbxCHJgAAAAJ).
 
@@ -59,6 +59,4 @@ Selected Awards
 
 Contact
 ======
-Building 28, Van Mourik Broekmanweg 6, 2628 XE Delft, the Netherlands
-
-Email: g.he@tudelft.nl
+Email: hegaole@nus.edu.sg
