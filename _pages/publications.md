@@ -25,7 +25,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   - [[paper]](https://arxiv.org/abs/2502.01390), [[code]](https://github.com/RichardHGL/CHI2025_Plan-then-Execute_LLMAgent), [[slides]](https://github.com/RichardHGL/CHI2025_Plan-then-Execute_LLMAgent/blob/main/asset/CHI25_pre_v1.pptx), [[video]](https://drive.google.com/file/d/1FP3yrVWRAtXEYsohMy_qEpavC0zkQkX3/view?usp=sharing)
 
 - **Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant.**
-  - Gaole He, Nilay Aishwarya, Ujwal Gadiraju. IUI 2025.
+  - **Gaole He**, Nilay Aishwarya, Ujwal Gadiraju. IUI 2025.
   - [[paper]](https://arxiv.org/abs/2501.17546), [[code]](https://github.com/delftcrowd/IUI2025_ConvXAI), [[video]](https://drive.google.com/file/d/1gQ0VpYBOMi7kLASGCnqNUQUCEcU0WJlr/view?usp=sharing), [[slides]](https://github.com/delftcrowd/IUI2025_ConvXAI/blob/main/IUI25_pre_v2.pptx)
 
 ## 2024
