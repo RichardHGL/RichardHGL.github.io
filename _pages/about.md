@@ -51,6 +51,7 @@ Selected Publication
 
 Selected Awards
 ======
+- Heidelberg Laureate Forum young researcher, 2023
 - Gary Marsden Travel Award for CHI'23, 2023
 - HCOMP Best Paper Award, 2022
 - Excellent Graduate in Beijing, 2021
@@ -60,4 +61,4 @@ Selected Awards
 
 Contact
 ======
-Email: hegaole@nus.edu.sg
+Email: gaoleheai@outlook.com
