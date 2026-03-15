@@ -9,15 +9,15 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 -> * indicates equal contribution
 
-## Pre-print
-- **Fine-Grained Appropriate Reliance: Human-AI Collaboration with a Multi-Step Transparent Decision Workflow for Complex Task Decomposition.**
-  - **Gaole He**, Patrick Hemmer, Michael Vössing, Max Schemmer, Ujwal Gadiraju.
-  - [[paper]](https://arxiv.org/abs/2501.10909)
-
 ## 2026
 
+- **From Control to Foresight: Simulation as a New Paradigm for Human-Agent Collaboration.**
+  - **Gaole He**, Brian Y. Lim. CHI 2026 workshop on Human-Agent Collaboration.
+  - [[paper]](https://arxiv.org/abs/2603.11677), [[workshop]](https://chi26workshop-human-agent-collaboration.hailab.io/)
+
 - **From SERPs to Sound: How Search Engine Result Pages and AI-generated Podcasts Interact to Influence User Attitudes on Controversial Topics.**
-  - Junjie Wang, **Gaole He**, Alisa Rieger, Ujwal Gadiraju. To appear CHIIR 2026. 
+  - Junjie Wang, **Gaole He**, Alisa Rieger, Ujwal Gadiraju. CHIIR 2026.
+  - [[paper]](https://arxiv.org/abs/2601.11282)
 
 ## 2025
 - **Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant.**
@@ -27,6 +27,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 - **Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant.**
   - **Gaole He**, Nilay Aishwarya, Ujwal Gadiraju. IUI 2025.
   - [[paper]](https://arxiv.org/abs/2501.17546), [[code]](https://github.com/delftcrowd/IUI2025_ConvXAI), [[video]](https://drive.google.com/file/d/1gQ0VpYBOMi7kLASGCnqNUQUCEcU0WJlr/view?usp=sharing), [[slides]](https://github.com/delftcrowd/IUI2025_ConvXAI/blob/main/IUI25_pre_v2.pptx)
+
+- **Fine-Grained Appropriate Reliance: Human-AI Collaboration with a Multi-Step Transparent Decision Workflow for Complex Task Decomposition.**
+  - **Gaole He**, Patrick Hemmer, Michael Vössing, Max Schemmer, Ujwal Gadiraju.
+  - [[paper]](https://arxiv.org/abs/2501.10909)
 
 ## 2024
 - **Opening the Analogical Portal to Explainability: Can Analogies Help Laypeople in AI-assisted Decision Making?**
