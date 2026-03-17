@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gaole He / Homepage"
 title_separator          : "-"
 name                     : &name "Gaole He"
-description              : &description "PhD student in TU Delft."
+description              : &description "Research Fellow at NUS."
 url                      : https://richardhgl.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "richardhgl.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gaole He"
   avatar           : "Turing-cikm-2018.jpeg"
-  bio              : "PhD student of TU Delft. Research topic: human-centered AI, knowledge graph."
+  bio              : "Research Fellow at NUS. Research topic: human-centered AI, agentic workflow."
   location         : "Delft, Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
