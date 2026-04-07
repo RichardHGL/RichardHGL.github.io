@@ -11,6 +11,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2026
 
+- **Diff4TST: Masked Diffusion Language Model for Text Style Transfer.**
+  - Xinchen Ma, **Gaole He**, Yunshi Lan, Weining Qian. To appear ACL 2026.
+
 - **From Control to Foresight: Simulation as a New Paradigm for Human-Agent Collaboration.**
   - **Gaole He**, Brian Y. Lim. CHI 2026 workshop on Human-Agent Collaboration.
   - [[paper]](https://arxiv.org/abs/2603.11677), [[workshop]](https://chi26workshop-human-agent-collaboration.hailab.io/)
