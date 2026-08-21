@@ -7,12 +7,17 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=J5m92oAAAAAJ">my Google Scholar</a>.</u>
 
--> * indicates equal contribution
+-> * indicates equal contribution, <sup>#</sup> indicates corresponding author
 
 ## 2026
 
+- **From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning.**
+  - Xinchen Ma, Shuimu Wang, **Gaole He**<sup>#</sup>, Yanbin Zhang, Chunyang Wang, Yunshi Lan<sup>#</sup>, Weining Qian. To appear EMNLP 2026.
+  - code and paper will be released soon
+
 - **Diff4TST: Masked Diffusion Language Model for Text Style Transfer.**
-  - Xinchen Ma, **Gaole He**, Yunshi Lan, Weining Qian. To appear ACL 2026.
+  - Xinchen Ma, **Gaole He**, Yunshi Lan, Weining Qian. ACL 2026.
+  - [[paper]](https://aclanthology.org/2026.acl-long.306/), 
 
 - **From Control to Foresight: Simulation as a New Paradigm for Human-Agent Collaboration.**
   - **Gaole He**, Brian Y. Lim. CHI 2026 workshop on Human-Agent Collaboration.
