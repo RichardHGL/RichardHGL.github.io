@@ -14,15 +14,11 @@ I obtained my master and bachelor degree from Information School at Renmin Unive
 
 Research Interest
 ======
-In my master program, I primarily focused on deep learning techniques for graph representation learning and reasoning, and on intelligent applications
-with relational knowledge bases, such as knowledge base question answering, knowledge graph completion, and knowledge-based recommender systems.
 
-My current research focuses on human-centered AI:
-- Exploring how **Large Language Models (LLMs)** can collaborate with humans to boost work efficiency and optimize workflow.
-- Analyzing user factors (e.g., **cognitive bias**) in shaping **trust and reliance** in human-AI collaboration.
-- Designing effective explanation methods (e.g., using **analogy**) to facilitate human-AI collaboration (target users: laypeople, non-experts)
-- Collecting necessary human knowledge (e.g., **commonsense knowledge**) to improve AI systems and generate explanations
-
+My current research combines AI system development with empirical studies of human behavior to support effective human-AI collaboration. I focus on:
+- **Human oversight of LLM agents**: Designing and evaluating interfaces and workflows that help people inspect, guide, and correct agent behavior.
+- **Explainable AI and decision support**: Developing explanations and cognitive interventions to support appropriate reliance and complementary human-AI performance.
+- **AI-assisted learning and skill development**: Investigating how generative AI can support knowledge acquisition, skill development, and the retention of human expertise.
 
 Selected Publication
 ======
