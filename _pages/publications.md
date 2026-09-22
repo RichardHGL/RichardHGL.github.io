@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 - **From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning.**
   - Xinchen Ma, Shuimu Wang, **Gaole He**<sup>#</sup>, Yanbin Zhang, Chunyang Wang, Yunshi Lan<sup>#</sup>, Weining Qian. To appear EMNLP 2026.
-  - code and paper will be released soon
+  - [[paper]](https://arxiv.org/abs/2609.24083), [[code]](https://github.com/Chloe-mxxxxc/Pedagogy-Guided-Generative-Video-Tutors-for-STEM-Learning)
 
 - **Diff4TST: Masked Diffusion Language Model for Text Style Transfer.**
   - Xinchen Ma, **Gaole He**, Yunshi Lan, Weining Qian. ACL 2026.
