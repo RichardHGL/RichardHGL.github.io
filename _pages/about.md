@@ -57,4 +57,4 @@ Selected Awards
 
 Contact
 ======
-Email: gaoleheai@outlook.com
+Email: hegaolehai [at] gmail.com
